@@ -1,4 +1,1 @@
-### Hi there 👋
-
-
-<h3><img align="center" height="100" src="https://github.com/LwaziNcubeX/LwaziNcubeX/blob/main/shark.gif"> TECHNOLOGIES</h3>
+### <h3><img align="center" height="300" src="https://github.com/LwaziNcubeX/LwaziNcubeX/blob/main/shark.gif"> Hi there 👋</h3>
