@@ -1,2 +1,3 @@
-### Hi there 👋 
-<h3><img align="center" height="250" src="https://github.com/LwaziNcubeX/LwaziNcubeX/blob/main/shark.gif"></h3> 
+###   vaas:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=oswald&size=13&duration=5124&pause=1000&center=true&vCenter=true&multiline=true&width=445&height=300&lines=Did+I+ever+tell+you+what+the+definition+of+insanity+is%3F;Insanity+is+doing+the+exact...+same+fucking+thing...;over+and+over+again+expecting...+shit+to+change...;That.+Is.+Crazy.;he+first+time+somebody+told+me+that%2C;+dunno%2C+I+thought+they+were+bullshitting+me%2C;so%2C+boom%2C+I+shot+him.;The+thing+is...+he+was+right.+And+then+I+started;seeing%2C+everywhere+I+looked%2C;everywhere+I+looked+all+these+fucking+pricks%2C;everywhere+I+looked%2C+doing+the+exact+same+fucking+thing...;over+and+over+and+over+and+over+again+thinking%3A;%22This+time+is+gonna+be+different.;No%2C+no%2C+no+please...;This+time+is+gonna+be+different.)](https://git.io/typing-svg)
+<div align="right"><img align="center" height="250" src="https://github.com/LwaziNcubeX/LwaziNcubeX/blob/main/shark.gif"></div>
